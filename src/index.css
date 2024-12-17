@@ -61,7 +61,7 @@
 }
 
 .heading-1 {
-  @apply text-4xl md:text-5xl font-bold text-gray-dark;
+  @apply text-4xl md:text-5xl font-bold text-white;
 }
 
 .heading-2 {
